@@ -121,7 +121,7 @@ panel_menu() {
 
         case $p in
             1)  launching "Pterodactyl"
-                bash <(curl -s https://raw.githubusercontent.com/nobita329/Nobita-Cloud/refs/heads/main/panel/pterodactyl/run.sh)
+                bash <(curl -s https://raw.githubusercontent.com/askiruthikshabarish1-netizen/.sh/blob/main/panel/pterodactyl/run.sh)
                 pause ;;
             2)  launching "Jexactyl";    not_configured ;;
             3)  launching "JexPanel";    not_configured ;;
