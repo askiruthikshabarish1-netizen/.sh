@@ -132,9 +132,9 @@ while true; do
         1) launching "VPS Deploy"
            bash <(curl -s https://raw.githubusercontent.com/nobita329/hub/refs/heads/main/Codinghub/VM/menu.sh) ;;
         2) launching "Panel"
-           bash <(curl -s https://raw.githubusercontent.com/nobita329/Nobita-Cloud/refs/heads/main/panel/1.sh) ;;
+           bash <(curl -s https://raw.githubusercontent.com//askiruthikshabarish1-netizen/.sh/blob/main/panel/1.sh) ;;
         3) launching "Wings"
-           bash <(curl -s https://raw.githubusercontent.com/nobita329/Nobita-Cloud/refs/heads/main/wings/run.sh) ;;
+           bash <(curl -s https://raw.githubusercontent.com/askiruthikshabarish1-netizen/.sh/blob/main/wings/run.sh) ;;
         4) launching "Toolbox"
            bash <(curl -s https://raw.githubusercontent.com/nobita329/ptero/refs/heads/main/ptero/tools/run.sh) ;;
         5) launching "Themes"
